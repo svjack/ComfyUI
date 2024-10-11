@@ -1,3 +1,12 @@
+```bash
+sudo apt-get update && sudo apt-get install git-lfs
+git clone https://github.com/comfyanonymous/ComfyUI
+cd ComfyUI
+pip install -r requirements.txt
+
+python main.py
+```
+
 <div align="center">
 
 # ComfyUI
