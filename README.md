@@ -4,7 +4,7 @@ git clone https://github.com/comfyanonymous/ComfyUI
 cd ComfyUI
 pip install -r requirements.txt
 
-python main.py
+python main.py --listen
 ```
 
 <div align="center">
